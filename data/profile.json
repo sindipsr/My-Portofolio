@@ -1,6 +1,6 @@
 {
-    "name": "Sindi Puspitasari - Undergraduate Electronic Engineering",
-    "description": "soon",
+    "name": "Sindi Puspitasari - Fresh Electronic Engineering",
+    "description": "Fresh Graduate | Electrical Engineering | State Polytechnic of Semarang",
     "profileImage": "images/profile.jpg",
     "email": "sindipsr@gmail.com",
     "phone": "+62 (857) 467-02004",
@@ -24,6 +24,14 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-     
+        {"name": "Programmable Logic Controller", "icon": "fas fa-heart-pulse", "level": 60},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 70},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 60},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 80},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 60},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 70},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 75}
     ]
+
 }
